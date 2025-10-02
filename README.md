@@ -1,5 +1,6 @@
 ## Hi there 👋
 # 👋 Hola, soy David Santiago Hernández Caicedo
+Tengo actualemnte 19 años.
 
 Actualmente estudio un **Grado Medio de Sistemas Microinformáticos y Redes** en la **Escola Pia Santa Anna de Mataró**.
 
