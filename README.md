@@ -1,4 +1,4 @@
-## Hi there 👋
+
 # 👋 Hola, soy David Santiago Hernández Caicedo
 Tengo actualemnte 19 años.
 
