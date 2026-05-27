@@ -1,173 +1,108 @@
 <h1 align="center">David Santiago Hernández Caicedo</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=007ACC&center=true&vCenter=true&width=800&lines=Técnico+en+Sistemas+Microinformáticos+y+Redes;Especialista+en+Hardware+y+Soporte+IT;Orientado+a+Servidores+y+Data+Centers" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00AEEF&center=true&vCenter=true&width=800&lines=Técnico+en+Sistemas+Microinformáticos+y+Redes;Hardware+|+Soporte+IT+|+Infraestructura;Orientado+a+Servidores+y+Data+Centers"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-Mataró-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Edad-19-grey?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Estado-Activo-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Ubicación-Premià%20de%20Mar-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Edad-19-lightgrey?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Estado-Disponible-success?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Formación-SMX-orange?style=flat-square"/>
 </p>
 
 ---
 
 ## Perfil Profesional
 
-Técnico IT con formación en Sistemas Microinformáticos y Redes y experiencia en entorno empresarial.
+Técnico IT en formación con experiencia en entorno profesional.
 
-Especializado en **hardware, mantenimiento, diagnóstico y soporte técnico**, con enfoque en **infraestructura física, servidores y centros de datos**.
-
----
-
-## Panel Profesional
-
-<table align="center">
-<tr>
-<td align="center">
-<b>Rol</b><br>
-Técnico IT<br>
-Hardware / Soporte
-</td>
-
-<td align="center">
-<b>Especialización</b><br>
-Infraestructura<br>
-Servidores<br>
-Data Center
-</td>
-
-<td align="center">
-<b>Disponibilidad</b><br>
-Inmediata<br>
-Movilidad
-</td>
-</tr>
-</table>
+Especializado en hardware, soporte técnico y diagnóstico de sistemas, con orientación hacia infraestructura, servidores y entornos empresariales.
 
 ---
 
-## Stack Tecnológico
-
-### Sistemas y herramientas
+## Stack Técnico
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=windows,apple,linux,git" />
+  <img src="https://skillicons.dev/icons?i=windows,apple,linux,ubuntu,git,github"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kali_Linux-black?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Zorin_OS-15A6F0?style=for-the-badge&logo=zorin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Packet_Tracer-1BA0D7?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Moodle-F98012?style=for-the-badge&logo=moodle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Windows%2011-0078D6?style=flat-square&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Windows%20Server-0078D6?style=flat-square&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ubuntu%20Server-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kali%20Linux-black?style=flat-square&logo=kalilinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Zorin-15A6F0?style=flat-square&logo=zorin&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Packet%20Tracer-1BA0D7?style=flat-square"/>
+  <img src="https://img.shields.io/badge/IPFire-red?style=flat-square"/>
+  <img src="https://img.shields.io/badge/LDAP-005571?style=flat-square"/>
+  <img src="https://img.shields.io/badge/FileZilla-BF0000?style=flat-square&logo=filezilla&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTTP-444?style=flat-square"/>
+  <img src="https://img.shields.io/badge/iRedMail-7C4DFF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Moodle-F98012?style=flat-square&logo=moodle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=flat-square&logo=githubpages&logoColor=white"/>
 </p>
 
 ---
 
-### Servidores y redes
+## Green IT
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTTP-005571?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Green%20IT-Sostenibilidad-27ae60?style=flat-square"/>
 </p>
+
+Aplicación de prácticas orientadas a eficiencia energética, optimización de recursos y reducción del impacto ambiental en entornos IT.
 
 ---
 
-### Herramientas adicionales
+## Capacidades Técnicas
+
+- Montaje y mantenimiento de equipos  
+- Diagnóstico de hardware y software  
+- Instalación y configuración de sistemas operativos  
+- Soporte técnico a usuarios  
+- Configuración básica de redes  
+- Entornos virtualizados  
+- Implementación de servicios (web, FTP, correo)  
+
+---
+
+## Experiencia
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microsoft_Planner-3178C6?style=for-the-badge&logo=microsoft&logoColor=white"/>
+  <a href="https://vimtech.es/" target="_blank">
+    <img src="https://img.shields.io/badge/VIMTECH-IT%20Solutions-red?style=for-the-badge&logoColor=white"/>
+  </a>
 </p>
-
----
-
-### Nivel Técnico
-
-Hardware               ██████████ 100%  
-Soporte IT             ██████████ 100%  
-Diagnóstico            █████████░ 90%  
-Sistemas Operativos    █████████░ 90%  
-Redes                 ███████░░░ 70%  
-Seguridad             ██████░░░░ 60%  
-
----
-
-## Experiencia Profesional
 
 **VIMTECH — Técnico IT en prácticas**  
 2025 - 2026 · +500 horas  
 
-- Instalación y configuración de Windows y macOS  
-- Preparación y despliegue de equipos  
-- Diagnóstico técnico y resolución de incidencias  
-- Soporte a usuarios  
+- Instalación de sistemas  
+- Soporte técnico a usuarios  
+- Diagnóstico y resolución de incidencias  
 - Mantenimiento de hardware  
 
 ---
 
 ## Proyectos
 
-### Servidor de Minecraft
-- Configuración de servidor remoto  
-- Gestión de usuarios  
-- Mantenimiento del sistema  
-
----
-
-### Laboratorio de Ciberseguridad
-- Auditoría de red WiFi propia  
-- Testing de contraseñas  
-- Entorno controlado de pruebas  
-
----
-
-## Estadísticas GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aluDavidSantiago&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=aluDavidSantiago&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aluDavidSantiago&theme=tokyo-night"/>
-</p>
-
----
-
-## Formación
-
-| Etapa | Centro | Periodo |
-|------|------|------|
-| Grado Medio SMR | Escola Pia Santa Anna | 2024 - 2026 |
-| ESO | IPM Premià de Mar | 2022 |
-
----
-
-## Competencias
-
-<table>
-<tr><td>Resolución de problemas</td><td>█████████░ 90%</td></tr>
-<tr><td>Trabajo bajo presión</td><td>████████░░ 80%</td></tr>
-<tr><td>Aprendizaje rápido</td><td>█████████░ 90%</td></tr>
-<tr><td>Responsabilidad</td><td>█████████░ 90%</td></tr>
-</table>
-
----
-
-## Objetivo Profesional
-
-Especialización en:
-
-- Infraestructura IT  
-- Centros de datos  
-- Servidores  
-- Hardware profesional  
+Servidor Minecraft  
+Laboratorio de ciberseguridad  
 
 ---
 
@@ -175,10 +110,13 @@ Especialización en:
 
 Email: santiagohdez.tech@gmail.com  
 Teléfono: +34 643 77 66 07  
-Ubicación: Mataró  
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007ACC,100:00C2FF&height=120&section=footer"/>
+  <img src="https://img.shields.io/badge/David%20S.%20Hernández-IT%20Technician-222222?style=for-the-badge&logo=linux&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=14&duration=4000&color=888888&center=true&vCenter=true&width=500&lines=hardware%20--infra%20--servers%20--systems%20--networking"/>
 </p>
