@@ -108,8 +108,7 @@ Laboratorio de ciberseguridad
 
 ## Contacto
 
-Email: santiago.hernandez.tech@gmail.com  
-Teléfono: +34 643 77 66 07  
+Email: santiago.hernandez.tech@gmail.com   
 
 ---
 
